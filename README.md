@@ -61,22 +61,33 @@ Software Developer • AI Enthusiast • Full Stack Developer
 
 # 🚀 Featured Projects
 
-### 🧠 Explainable AI-Based Brain Tumor Classification
-> Deep Learning project using **TensorFlow**, **OpenCV**, **Grad-CAM**, **Flask/Streamlit** for MRI Brain Tumor Detection.
+### 🧠 Brain Tumor Classification Using Deep Learning
+
+AI-powered brain tumor detection system that classifies MRI scans using Deep Learning and provides explainable predictions with Grad-CAM.
+
+**Tech Stack:** TensorFlow • OpenCV • Python • Flask • Grad-CAM
+
+🔗 **Repository:** https://github.com/utkarshgaurav09/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
 
 ---
 
-### 💰 Expense Tracker *(Coming Soon)*
+### 📄 AI Resume Analyzer
 
-React-based application for tracking income and expenses.
+Full-stack web application that analyzes resumes, evaluates ATS compatibility, extracts skills, and provides AI-powered improvement suggestions.
 
----
+**Tech Stack:** React • JavaScript • Flask • Python • NLP
 
-### 🌐 Portfolio Website *(Coming Soon)*
-
-Personal portfolio showcasing projects and skills.
+🔗 **Repository:** https://github.com/utkarshgaurav09/Ai-resume-analyzer
 
 ---
+
+### 📈 Customer Churn Prediction
+
+Machine Learning application that predicts customer churn using historical customer data and visualizes important business insights.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
+
+🔗 **Repository:** https://github.com/utkarshgaurav09/Customer-Churn-Prediction
 
 # 📊 GitHub Stats
 
