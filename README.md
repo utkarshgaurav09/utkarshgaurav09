@@ -105,5 +105,10 @@ Machine Learning application that predicts customer churn using historical custo
 </p>
 
 ---
+# 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/uttkarshh_07?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
 
