@@ -29,6 +29,12 @@ Software Developer • AI Enthusiast • Full Stack Developer
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
+<p align="center">
+  <a href="https://leetcode.com/u/uttkarshh_07/">
+    <img src="https://img.shields.io/badge/LeetCode-uttkarshh__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
 <a href="mailto:utkarsh15gaurav@gmail.com">
 <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
@@ -105,10 +111,3 @@ Machine Learning application that predicts customer churn using historical custo
 </p>
 
 ---
-# 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/uttkarshh_07?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-
