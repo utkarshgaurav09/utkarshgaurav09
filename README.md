@@ -29,10 +29,7 @@ Software Developer • AI Enthusiast • Full Stack Developer
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<p align="center">
-  <a href="https://leetcode.com/u/uttkarshh_07/">
-    <img src="https://img.shields.io/badge/LeetCode-uttkarshh__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-uttkarshh__07-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/uttkarshh_07/)
 </p>
 
 <a href="mailto:utkarsh15gaurav@gmail.com">
